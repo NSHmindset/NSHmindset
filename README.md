@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/736x/bf/9a/18/bf9a18d6fbdbb68de604feadc175c609.jpg)
+
 <h1 align="center">Hi 👋, I'm NSH</h1>
 <h3 align="center">A passionate application developer from TÜRKİYE</h3>
 
