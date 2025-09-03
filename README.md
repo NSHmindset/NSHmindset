@@ -1,4 +1,4 @@
-![MasterHead](https://media.canva.com/v2/image-resize/format:JPG/height:238/quality:92/uri:ifs%3A%2F%2FM%2F4b29500f-c15d-4ebd-ba54-7808f6bdbf49/watermark:F/width:550?csig=AAAAAAAAAAAAAAAAAAAAAPkF7NepDLYI9EFx8MCIjLmreopbjy3_VhcOP93uSd9t&exp=1756919788&osig=AAAAAAAAAAAAAAAAAAAAAHtM_qcTPJDBAdufRzGaL6KJ_F9dXBS6BXkt2S5ZdMml&signer=media-rpc&x-canva-quality=thumbnail_large)
+[![MasterHead](https://i.pinimg.com/736x/bf/9a/18/bf9a18d6fbdbb68de604feadc175c609.jpg)
 <h1 align="center">Hi 👋, I'm NSH</h1>
 <h3 align="center">A passionate application developer from TÜRKİYE</h3>
 
